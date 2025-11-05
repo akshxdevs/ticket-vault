@@ -1,12 +1,5 @@
 # Ticket Vault – NFT, SOL & SPL Token Staking on Solana
 
-![Solana](https://img.shields.io/badge/Solana-14F195?logo=solana&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-Framework-blue)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![License](https://img.shields.io/github/license/akshxdevs/ticket-vault)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
-
 > **Secure, flexible, and reward-generating multi-asset staking vault for NFTs, SOL, and SPL tokens on Solana. Powered by Anchor.**
 
 ---
